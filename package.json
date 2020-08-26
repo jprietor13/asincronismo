@@ -1,0 +1,15 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Proyecto ejemplo del curso de asincronismo con JS de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "challenge": "node src/callback/challenge.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
